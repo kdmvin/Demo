@@ -12,7 +12,7 @@ public class Demo {
 		WebDriver driver=new ChromeDriver();
 		
 		driver.get("file:///E:/Selenium%20Setup/JBKoffline/jbk%20website/index.html");
-		
+		System.out.println("Web page is opened");
 	} 
 
 }
